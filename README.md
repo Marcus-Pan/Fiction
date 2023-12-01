@@ -1,2 +1,2 @@
 # Fiction
-My non-fantasy fiction which explores genres of horror, sci-fi and fantasy. Note that ALBINOR related fantasy fiction has it's own repo here.
+My miscellaneous fiction which explores genres of horror, sci-fi and fantasy. Note that series such as Albinor, PAN-Golarian, etc. has thier own repos here. 
